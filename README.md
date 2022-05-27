@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Technologies.
 - 🌱 I’m currently learning at KLS gogte institute of technology.
 - 💥 I am fond of Javascript and trying to get adept in
-     all its connected tools.
+     all its connected tools and technologies.
 
 
 <!---
