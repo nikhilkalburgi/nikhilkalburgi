@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nikhilkalburgi.
 - 👀 I’m interested in Web Technologies.
 - 🌱 I’m currently learning at KLS gogte institute of technology.
-- 💥 I am fond of Javascript and trying to get adept in
-     all its connected tools and technologies.
+- 💥 I an open to new opportunities.
 
 
 <!---
