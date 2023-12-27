@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nikhilkalburgi.
-- 👀 I’m interested in Web Technologies.
-- 🌱 I’m currently learning at KLS gogte institute of technology.
+- 👀 I’m interested in Web, Data Engineering, and Blockchain.
+- 🌱 I’m an Engineer at DTICI and Freelance TCW at GeeksforGeeks
 - 💥 I am open to new opportunities.
 
 
