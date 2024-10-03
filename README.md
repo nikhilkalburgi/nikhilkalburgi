@@ -4,13 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer | Tech Content Writer
 ----------------------------------------------
 
-🌟 Google Summer Of Code 2024 @AsyncAPI 
-🌱 I’m an Engineer at DTICI and ex-Freelance TCW at GeeksforGeeks 
-💥 I am open to new opportunities.
-
+* 🌟 Google Summer Of Code 2024 @AsyncAPI 
+* 🌱 I'm an Engineer at DTICI and ex-Freelance TCW at GeeksforGeeks 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [nikhilkalburgi19@gmail.com](mailto:nikhilkalburgi19@gmail.com)
-* 🤝  I'm open to collaborating on New Projects
+* 🤝  I'm open to collaborating on New Projects and New Opportunities.
 
 ### Skills
 
